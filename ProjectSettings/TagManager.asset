@@ -13,8 +13,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - Player
+  - Popup UI
   - 
   - 
   - 
@@ -59,12 +59,15 @@ TagManager:
   - name: Door
     uniqueID: 91295593
     locked: 0
-  - name: Player
-    uniqueID: 3269973265
-    locked: 0
   - name: Object
     uniqueID: 2450288243
     locked: 0
+  - name: Player
+    uniqueID: 3269973265
+    locked: 0
   - name: UI
     uniqueID: 193029931
+    locked: 0
+  - name: GameUI
+    uniqueID: 584702809
     locked: 0

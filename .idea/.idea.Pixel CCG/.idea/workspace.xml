@@ -9,11 +9,41 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TransferMap.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Joystick Pack/Examples/JoystickPlayerExample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/GameService/GameServiceResult.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/UI/InventoryManagement/UIItemList.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Assets/Joystick Pack/Examples/JoystickPlayerExample.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI_Game_BottomButtons.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UIManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI_Popup_Inventory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI_Popup_Map.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI_Popup_Stat.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FadeManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TransferMap.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/RubyController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/JoystickPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/GameService/GameServiceResult.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/UI/InventoryManagement/UIItemSell.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/UI/InventoryManagement/UIItemSelection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/PlayerData/PlayerItemSort.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/PlayerData/BasePlayerData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/GameData/GameDatabase.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/UI/Gameplay/UICharacterBuff.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/UI/Gameplay/UICharacterStatsGeneric.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/UI/Gameplay/UIGamePlayGeneric.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/UI/InventoryManagement/UIEquipmentManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/UI/InventoryManagement/UIItemListFilter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/UI/Player/UIItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/GameData/Item/Item.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/GameData/Item/EquipmentItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameInstance.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/PlayerData/PlayerItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/UI/InventoryManagement/UIInventoryManager.cs" />
       </list>
     </option>
   </component>
@@ -25,15 +55,24 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.35036495" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.3000811" />
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
-    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor &amp; Play">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="10730">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" />
+      <option name="pid" value="10730" />
       <option name="selectedOptions">
         <set />
       </option>
@@ -57,7 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603600705018</updated>
-      <workItem from="1603600707625" duration="591000" />
+      <workItem from="1603600707625" duration="20375000" />
     </task>
     <servers />
   </component>
@@ -68,5 +107,153 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="849" height="464" key="DebuggerActiveHint" timestamp="1603721555964">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="849" height="464" key="DebuggerActiveHint/0.23.2560.1417@0.23.2560.1417" timestamp="1603721555964" />
+    <state width="1264" height="289" key="GridCell.Tab.0.bottom" timestamp="1603721723749">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1264" height="289" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1603721723749" />
+    <state width="1264" height="289" key="GridCell.Tab.0.center" timestamp="1603721723748">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1264" height="289" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1603721723748" />
+    <state width="1264" height="289" key="GridCell.Tab.0.left" timestamp="1603721723748">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1264" height="289" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1603721723748" />
+    <state width="1264" height="289" key="GridCell.Tab.0.right" timestamp="1603721723749">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1264" height="289" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1603721723749" />
+    <state width="1264" height="289" key="GridCell.Tab.1.bottom" timestamp="1603721723749">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1264" height="289" key="GridCell.Tab.1.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1603721723749" />
+    <state width="1264" height="289" key="GridCell.Tab.1.center" timestamp="1603721723749">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1264" height="289" key="GridCell.Tab.1.center/0.23.2560.1417@0.23.2560.1417" timestamp="1603721723749" />
+    <state width="1264" height="289" key="GridCell.Tab.1.left" timestamp="1603721723749">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1264" height="289" key="GridCell.Tab.1.left/0.23.2560.1417@0.23.2560.1417" timestamp="1603721723749" />
+    <state width="1264" height="289" key="GridCell.Tab.1.right" timestamp="1603721723749">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1264" height="289" key="GridCell.Tab.1.right/0.23.2560.1417@0.23.2560.1417" timestamp="1603721723749" />
+    <state width="1264" height="289" key="GridCell.Tab.2.bottom" timestamp="1603721723750">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1264" height="289" key="GridCell.Tab.2.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1603721723750" />
+    <state width="1264" height="289" key="GridCell.Tab.2.center" timestamp="1603721723750">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1264" height="289" key="GridCell.Tab.2.center/0.23.2560.1417@0.23.2560.1417" timestamp="1603721723750" />
+    <state width="1264" height="289" key="GridCell.Tab.2.left" timestamp="1603721723750">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1264" height="289" key="GridCell.Tab.2.left/0.23.2560.1417@0.23.2560.1417" timestamp="1603721723750" />
+    <state width="1264" height="289" key="GridCell.Tab.2.right" timestamp="1603721723750">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1264" height="289" key="GridCell.Tab.2.right/0.23.2560.1417@0.23.2560.1417" timestamp="1603721723750" />
+    <state width="1264" height="289" key="GridCell.Tab.3.bottom" timestamp="1603721723751">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1264" height="289" key="GridCell.Tab.3.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1603721723751" />
+    <state width="1264" height="289" key="GridCell.Tab.3.center" timestamp="1603721723750">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1264" height="289" key="GridCell.Tab.3.center/0.23.2560.1417@0.23.2560.1417" timestamp="1603721723750" />
+    <state width="1264" height="289" key="GridCell.Tab.3.left" timestamp="1603721723750">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1264" height="289" key="GridCell.Tab.3.left/0.23.2560.1417@0.23.2560.1417" timestamp="1603721723750" />
+    <state width="1264" height="289" key="GridCell.Tab.3.right" timestamp="1603721723750">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1264" height="289" key="GridCell.Tab.3.right/0.23.2560.1417@0.23.2560.1417" timestamp="1603721723750" />
+    <state x="1681" y="412" key="RiderGenerateDialog" timestamp="1603634339990">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1681" y="412" key="RiderGenerateDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1603634339990" />
+    <state width="498" height="445" key="SwitcherDM" timestamp="1603721689520">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="498" height="445" key="SwitcherDM/0.23.2560.1417@0.23.2560.1417" timestamp="1603721689520" />
+    <state x="1538" y="486" width="738" height="490" key="find.popup" timestamp="1603719896663">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1538" y="486" width="738" height="490" key="find.popup/0.23.2560.1417@0.23.2560.1417" timestamp="1603719896663" />
+    <state x="1571" y="345" key="run.anything.popup" timestamp="1603638695397">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1571" y="345" key="run.anything.popup/0.23.2560.1417@0.23.2560.1417" timestamp="1603638695397" />
+    <state x="1570" y="346" width="672" height="678" key="search.everywhere.popup" timestamp="1603721679893">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1570" y="346" width="672" height="678" key="search.everywhere.popup/0.23.2560.1417@0.23.2560.1417" timestamp="1603721679893" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/UI/Player/UIItem.cs</url>
+          <line>305</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/UI/Player/UIItem.cs" initialLine="305">
+            <startOffsets>
+              <option value="10740" />
+            </startOffsets>
+            <endOffsets>
+              <option value="10799" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/PlayerData/PlayerItem.cs</url>
+          <line>96</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/PlayerData/PlayerItem.cs" initialLine="96">
+            <startOffsets>
+              <option value="2947" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2981" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/PlayerData/PlayerItem.cs</url>
+          <line>95</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/PlayerData/PlayerItem.cs" initialLine="95">
+            <startOffsets>
+              <option value="2863" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2930" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/UI/Player/UIItem.cs</url>
+          <line>291</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/UI/Player/UIItem.cs" initialLine="291">
+            <startOffsets>
+              <option value="10330" />
+            </startOffsets>
+            <endOffsets>
+              <option value="10331" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
