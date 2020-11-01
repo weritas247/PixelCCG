@@ -55,11 +55,13 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="Enemy.cs" t="Include" />
           <e p="FadeManager.cs" t="Include" />
           <e p="GameInstance.cs" t="Include" />
           <e p="JoystickPlayer.cs" t="Include" />
           <e p="NonPlayerCharacter.cs" t="Include" />
           <e p="Player.cs" t="Include" />
+          <e p="Projectile.cs" t="Include" />
           <e p="RPG" t="Include">
             <e p="Core" t="Include">
               <e p="Scripts" t="Include">
