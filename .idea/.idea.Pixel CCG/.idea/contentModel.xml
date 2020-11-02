@@ -55,6 +55,7 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="CharacterStats.cs" t="Include" />
           <e p="Enemy.cs" t="Include" />
           <e p="FadeManager.cs" t="Include" />
           <e p="GameInstance.cs" t="Include" />
@@ -167,6 +168,7 @@
           <e p="UI_Popup_Inventory.cs" t="Include" />
           <e p="UI_Popup_Map.cs" t="Include" />
           <e p="UI_Popup_Stat.cs" t="Include" />
+          <e p="UIFollowWorldPosition.cs" t="Include" />
           <e p="UIManager.cs" t="Include" />
         </e>
         <e p="Tiles" t="Include">
