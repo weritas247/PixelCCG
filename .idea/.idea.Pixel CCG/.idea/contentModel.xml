@@ -55,6 +55,7 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="BaseCharacterEntity.cs" t="Include" />
           <e p="CharacterStats.cs" t="Include" />
           <e p="Enemy.cs" t="Include" />
           <e p="FadeManager.cs" t="Include" />

@@ -133,6 +133,7 @@
      <Compile Include="Assets\Scripts\RPG\Core\Scripts\GameData\GameDatabase.cs" />
      <Compile Include="Assets\Download\Pixel Heroes Pack\Demo\Scripts\Warlock.cs" />
      <Compile Include="Assets\Scripts\RPG\Core\Scripts\UI\Gameplay\UICharacterStatsGeneric.cs" />
+     <Compile Include="Assets\Scripts\BaseCharacterEntity.cs" />
      <None Include="Assets\Download\Pixel Heroes Pack\ColorSwap\Sprites-ColorSwap.shader" />
      <None Include="Assets\Tiles\RF_Catacombs_v1.0\public-license.txt" />
  <Reference Include="Unity.Timeline.Editor">
