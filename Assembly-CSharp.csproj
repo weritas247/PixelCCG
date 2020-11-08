@@ -54,86 +54,40 @@
      <Compile Include="Assets\Download\Pixel Heroes Pack\Demo\Scripts\Priest.cs" />
      <Compile Include="Assets\Scripts\Enemy.cs" />
      <Compile Include="Assets\Scripts\TransferMap.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\PlayerData\Interface\IPlayerPair.cs" />
      <Compile Include="Assets\Download\Pixel Heroes Pack\Demo\Scripts\StormMage.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\PlayerData\BasePlayerData.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\UI\Gameplay\UICharacterBuff.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\GameData\Item\Item.cs" />
      <Compile Include="Assets\Scripts\CharacterStats.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\UI\InventoryManagement\UIInventoryManager.cs" />
      <Compile Include="Assets\Download\Pixel Heroes Pack\Demo\Scripts\CharacterSelector_PixelHeroes.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\GameData\Attributes.cs" />
      <Compile Include="Assets\Download\Pixel Heroes Pack\Demo\Scripts\Projectile_Rogue.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\UI\InventoryManagement\UIItemSell.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\PlayerData\Interface\IChatMessage.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\GameData\Item\BaseGameData.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\GameData\Currency.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\PlayerData\PlayerItemSort.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\PlayerData\Interface\IPlayerFormation.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\UI\Gameplay\UILevel.cs" />
      <Compile Include="Assets\Scripts\UIManager.cs" />
      <Compile Include="Assets\Joystick Pack\Examples\JoystickSetterExample.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\UI\Player\UICurrency.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\PlayerData\Interface\IPlayerBattle.cs" />
      <Compile Include="Assets\Download\Pixel Heroes Pack\Demo\Scripts\Sensor_PixelHeroes.cs" />
      <Compile Include="Assets\Scripts\UIFollowWorldPosition.cs" />
      <Compile Include="Assets\Download\Pixel Heroes Pack\Demo\Scripts\Firemage.cs" />
      <Compile Include="Assets\Scripts\FadeManager.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\PlayerData\PlayerItem.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\PlayerData\Interface\IPlayerUnlockItem.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\UI\InventoryManagement\UIItemListFilter.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\PlayerData\Interface\IPlayerAchievement.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\PlayerData\PlayerCurrency.cs" />
      <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\FloatingJoystick.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\GameData\Item\MaterialItem.cs" />
      <Compile Include="Assets\Scripts\RubyController.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\GameData\Item\EquipmentItem.cs" />
      <Compile Include="Assets\Scripts\UI_Popup_Stat.cs" />
      <Compile Include="Assets\Download\Pixel Heroes Pack\Demo\Scripts\Necromancer.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\PlayerData\Interface\IPlayerStamina.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\PlayerData\Interface\IClan.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\UI\Gameplay\UICombatText.cs" />
-     <Compile Include="Assets\Scripts\GameInstance.cs" />
+     <Compile Include="Assets\Scripts\BaseCharacterEntity.cs" />
      <Compile Include="Assets\Scripts\UI_Game_BottomButtons.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\PlayerData\Interface\IPlayer.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\GameData\Item\ItemTier.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\GameData\Item\Interface\ILevel.cs" />
      <Compile Include="Assets\Scripts\RPG\UnityEditorUtils\Scripts\ScriptableObjectUtility.cs" />
      <Compile Include="Assets\Scripts\Projectile.cs" />
      <Compile Include="Assets\Scripts\JoystickPlayer.cs" />
      <Compile Include="Assets\Download\Pixel Heroes Pack\ColorSwap\ColorSwap_PixelHeroes.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\PlayerData\Interface\IPlayerItem.cs" />
      <Compile Include="Assets\Download\Pixel Heroes Pack\Demo\Scripts\Alchemist.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\UI\Gameplay\UIAttributes.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\PlayerData\Interface\IPlayerClearStage.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\UI\Language\UILanguageText.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\Text\Language.cs" />
      <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\DynamicJoystick.cs" />
      <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\FixedJoystick.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\PlayerData\Interface\IPlayerAuth.cs" />
      <Compile Include="Assets\Scripts\Player.cs" />
      <Compile Include="Assets\Download\Pixel Heroes Pack\Demo\Scripts\Druid.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\GameData\Item\ItemCraftFormula.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\PlayerData\Interface\IPlayerCurrency.cs" />
      <Compile Include="Assets\Scripts\NonPlayerCharacter.cs" />
      <Compile Include="Assets\Joystick Pack\Examples\JoystickPlayerExample.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\GameService\GameServiceResult.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\UI\Player\UIItem.cs" />
      <Compile Include="Assets\Scripts\UI_Popup_Map.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\UI\InventoryManagement\UIEquipmentManager.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\Text\LanguageManager.cs" />
      <Compile Include="Assets\Scripts\SpawnPoint.cs" />
      <Compile Include="Assets\Scripts\UI_Popup_Inventory.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\UI\Gameplay\UIGamePlayGeneric.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\UI\InventoryManagement\UIItemSelection.cs" />
      <Compile Include="Assets\Download\Pixel Heroes Pack\Demo\Scripts\Blademaster.cs" />
      <Compile Include="Assets\Download\Pixel Heroes Pack\Demo\Scripts\Barbarian.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\UI\InventoryManagement\UIItemList.cs" />
      <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\VariableJoystick.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\GameData\GameDatabase.cs" />
      <Compile Include="Assets\Download\Pixel Heroes Pack\Demo\Scripts\Warlock.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\UI\Gameplay\UICharacterStatsGeneric.cs" />
-     <Compile Include="Assets\Scripts\BaseCharacterEntity.cs" />
      <None Include="Assets\Download\Pixel Heroes Pack\ColorSwap\Sprites-ColorSwap.shader" />
      <None Include="Assets\Tiles\RF_Catacombs_v1.0\public-license.txt" />
  <Reference Include="Unity.Timeline.Editor">
@@ -408,6 +362,15 @@
  </Reference>
  <Reference Include="UnityEditor">
  <HintPath>/Applications/Unity/Hub/Editor/2020.1.3f1/Unity.app/Contents/Managed/UnityEditor.dll</HintPath>
+ </Reference>
+ <Reference Include="Newtonsoft.Json">
+ <HintPath>/Users/lsh/Unity/Pixel CCG/Assets/Scripts/RPG/Core/Plugins/Newtonsoft.Json.dll</HintPath>
+ </Reference>
+ <Reference Include="LiteDB">
+ <HintPath>/Users/lsh/Unity/Pixel CCG/Assets/Scripts/RPG/Core/Plugins/LiteDB.dll</HintPath>
+ </Reference>
+ <Reference Include="Mono.Data.Sqlite">
+ <HintPath>/Users/lsh/Unity/Pixel CCG/Assets/Scripts/RPG/Core/Plugins/SQLite/Common/Mono.Data.Sqlite.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>/Applications/Unity/Hub/Editor/2020.1.3f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -765,6 +728,10 @@
     <ProjectReference Include="UIUtilities.csproj">
       <Project>{65342135-e291-3dd0-121c-27f4791aa85e}</Project>
       <Name>UIUtilities</Name>
+    </ProjectReference>
+    <ProjectReference Include="BaseRPG.csproj">
+      <Project>{df722259-a91b-f214-d99c-307a91269d99}</Project>
+      <Name>BaseRPG</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

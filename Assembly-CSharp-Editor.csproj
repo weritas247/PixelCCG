@@ -345,6 +345,15 @@
  <Reference Include="UnityEditor.iOS.Extensions">
  <HintPath>/Applications/Unity/Hub/Editor/2020.1.3f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll</HintPath>
  </Reference>
+ <Reference Include="Newtonsoft.Json">
+ <HintPath>/Users/lsh/Unity/Pixel CCG/Assets/Scripts/RPG/Core/Plugins/Newtonsoft.Json.dll</HintPath>
+ </Reference>
+ <Reference Include="LiteDB">
+ <HintPath>/Users/lsh/Unity/Pixel CCG/Assets/Scripts/RPG/Core/Plugins/LiteDB.dll</HintPath>
+ </Reference>
+ <Reference Include="Mono.Data.Sqlite">
+ <HintPath>/Users/lsh/Unity/Pixel CCG/Assets/Scripts/RPG/Core/Plugins/SQLite/Common/Mono.Data.Sqlite.dll</HintPath>
+ </Reference>
  <Reference Include="nunit.framework">
  <HintPath>/Users/lsh/Unity/Pixel CCG/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
  </Reference>
@@ -708,6 +717,10 @@
     <ProjectReference Include="UIUtilities.csproj">
       <Project>{65342135-e291-3dd0-121c-27f4791aa85e}</Project>
       <Name>UIUtilities</Name>
+    </ProjectReference>
+    <ProjectReference Include="BaseRPG.csproj">
+      <Project>{df722259-a91b-f214-d99c-307a91269d99}</Project>
+      <Name>BaseRPG</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

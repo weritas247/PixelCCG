@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{f7ef5d22-c390-5739-d9f2-70edc72400cf}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseRPG", "BaseRPG.csproj", "{df722259-a91b-f214-d99c-307a91269d99}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIUtilities", "UIUtilities.csproj", "{65342135-e291-3dd0-121c-27f4791aa85e}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{37f6b86e-d1e9-2aff-7d2e-52c9365d292e}"
@@ -17,6 +19,10 @@ Global
 		{f7ef5d22-c390-5739-d9f2-70edc72400cf}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{f7ef5d22-c390-5739-d9f2-70edc72400cf}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{f7ef5d22-c390-5739-d9f2-70edc72400cf}.Release|Any CPU.Build.0 = Release|Any CPU
+		{df722259-a91b-f214-d99c-307a91269d99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{df722259-a91b-f214-d99c-307a91269d99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{df722259-a91b-f214-d99c-307a91269d99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{df722259-a91b-f214-d99c-307a91269d99}.Release|Any CPU.Build.0 = Release|Any CPU
 		{65342135-e291-3dd0-121c-27f4791aa85e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{65342135-e291-3dd0-121c-27f4791aa85e}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65342135-e291-3dd0-121c-27f4791aa85e}.Release|Any CPU.ActiveCfg = Release|Any CPU
