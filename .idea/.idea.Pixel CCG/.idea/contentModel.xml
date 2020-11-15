@@ -7,6 +7,9 @@
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="BlackCrusaderUI" t="Include">
+          <e p="ReadMe.txt" t="Include" />
+        </e>
         <e p="Download" t="Include">
           <e p="Pixel Heroes Pack" t="Include">
             <e p="ColorSwap" t="Include">
@@ -58,8 +61,11 @@
           <e p="BaseCharacterEntity.cs" t="Include" />
           <e p="CharacterStats.cs" t="Include" />
           <e p="Enemy.cs" t="Include" />
+          <e p="Exercise.cs" t="Include" />
           <e p="FadeManager.cs" t="Include" />
+          <e p="IntersectTriangle.cs" t="Include" />
           <e p="JoystickPlayer.cs" t="Include" />
+          <e p="LaunchPoint.cs" t="Include" />
           <e p="NonPlayerCharacter.cs" t="Include" />
           <e p="Player.cs" t="Include" />
           <e p="Projectile.cs" t="Include" />
@@ -233,6 +239,11 @@
           </e>
           <e p="RubyController.cs" t="Include" />
           <e p="SpawnPoint.cs" t="Include" />
+          <e p="Test_Circle.cs" t="Include" />
+          <e p="Test_Draw.cs" t="Include" />
+          <e p="Test_Player.cs" t="Include" />
+          <e p="Test_Scene1.cs" t="Include" />
+          <e p="Test_Transform.cs" t="Include" />
           <e p="TransferMap.cs" t="Include" />
           <e p="UI_Game_BottomButtons.cs" t="Include" />
           <e p="UI_Popup_Inventory.cs" t="Include" />
