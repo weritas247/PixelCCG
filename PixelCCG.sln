@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{9df69a51-692d-9413-4aae-d7cae684519d}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseRPG", "BaseRPG.csproj", "{c925ab54-6675-c2e4-9016-6458886aafde}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIUtilities", "UIUtilities.csproj", "{58c7eef5-4d7c-6de9-73c1-bd6488894dbf}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{f4065c1e-7e19-dcef-7de9-bab4ac070f99}"
@@ -17,6 +19,10 @@ Global
 		{9df69a51-692d-9413-4aae-d7cae684519d}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9df69a51-692d-9413-4aae-d7cae684519d}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9df69a51-692d-9413-4aae-d7cae684519d}.Release|Any CPU.Build.0 = Release|Any CPU
+		{c925ab54-6675-c2e4-9016-6458886aafde}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{c925ab54-6675-c2e4-9016-6458886aafde}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{c925ab54-6675-c2e4-9016-6458886aafde}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{c925ab54-6675-c2e4-9016-6458886aafde}.Release|Any CPU.Build.0 = Release|Any CPU
 		{58c7eef5-4d7c-6de9-73c1-bd6488894dbf}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{58c7eef5-4d7c-6de9-73c1-bd6488894dbf}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58c7eef5-4d7c-6de9-73c1-bd6488894dbf}.Release|Any CPU.ActiveCfg = Release|Any CPU

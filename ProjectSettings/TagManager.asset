@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Enemy
+  - Projectile
+  - EnemyProjectile
   layers:
   - Default
   - TransparentFX
@@ -77,4 +79,7 @@ TagManager:
     locked: 0
   - name: GameUI
     uniqueID: 584702809
+    locked: 0
+  - name: Projectile
+    uniqueID: 2368896661
     locked: 0
