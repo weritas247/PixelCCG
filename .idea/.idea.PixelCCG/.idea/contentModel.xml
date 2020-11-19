@@ -63,6 +63,7 @@
           <e p="Enemy.cs" t="Include" />
           <e p="Exercise.cs" t="Include" />
           <e p="FadeManager.cs" t="Include" />
+          <e p="GUIManager.cs" t="Include" />
           <e p="IntersectTriangle.cs" t="Include" />
           <e p="JoystickPlayer.cs" t="Include" />
           <e p="LaunchPoint.cs" t="Include" />
@@ -239,18 +240,19 @@
           </e>
           <e p="RubyController.cs" t="Include" />
           <e p="SpawnPoint.cs" t="Include" />
-          <e p="Test_Circle.cs" t="Include" />
-          <e p="Test_Draw.cs" t="Include" />
-          <e p="Test_Player.cs" t="Include" />
-          <e p="Test_Scene1.cs" t="Include" />
-          <e p="Test_Transform.cs" t="Include" />
+          <e p="Test" t="Include">
+            <e p="Test_Circle.cs" t="Include" />
+            <e p="Test_Draw.cs" t="Include" />
+            <e p="Test_Player.cs" t="Include" />
+            <e p="Test_Scene1.cs" t="Include" />
+            <e p="Test_Transform.cs" t="Include" />
+          </e>
           <e p="TransferMap.cs" t="Include" />
           <e p="UI_Game_BottomButtons.cs" t="Include" />
           <e p="UI_Popup_Inventory.cs" t="Include" />
           <e p="UI_Popup_Map.cs" t="Include" />
           <e p="UI_Popup_Stat.cs" t="Include" />
           <e p="UIFollowWorldPosition.cs" t="Include" />
-          <e p="UIManager.cs" t="Include" />
         </e>
         <e p="Tiles" t="Include">
           <e p="RF_Catacombs_v1.0" t="Include">
