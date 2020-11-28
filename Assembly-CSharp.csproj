@@ -12,7 +12,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{9df69a51-692d-9413-4aae-d7cae684519d}</ProjectGuid>
+    <ProjectGuid>{f7ef5d22-c390-5739-d9f2-70edc72400cf}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -94,95 +94,96 @@
      <Compile Include="Assets\Scripts\UI_Popup_Inventory.cs" />
      <Compile Include="Assets\Download\Pixel Heroes Pack\Demo\Scripts\Blademaster.cs" />
      <Compile Include="Assets\Download\Pixel Heroes Pack\Demo\Scripts\Barbarian.cs" />
+     <Compile Include="Assets\Scripts\Merchant.cs" />
      <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\VariableJoystick.cs" />
      <Compile Include="Assets\Download\Pixel Heroes Pack\Demo\Scripts\Warlock.cs" />
-     <Compile Include="Assets\Scripts\Merchant.cs" />
+     <Compile Include="Assets\Scripts\Player1.cs" />
      <None Include="Assets\BlackCrusaderUI\ReadMe.txt" />
      <None Include="Assets\Download\Pixel Heroes Pack\ColorSwap\Sprites-ColorSwap.shader" />
      <None Include="Assets\Tiles\RF_Catacombs_v1.0\public-license.txt" />
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>/Volumes/MacExt/Unity/PixelCCG/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>/Users/lsh/Unity/Pixel CCG/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Cinemachine">
- <HintPath>/Volumes/MacExt/Unity/PixelCCG/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+ <HintPath>/Users/lsh/Unity/Pixel CCG/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Animation.Runtime">
- <HintPath>/Volumes/MacExt/Unity/PixelCCG/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
+ <HintPath>/Users/lsh/Unity/Pixel CCG/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.PixelPerfect.Editor">
- <HintPath>/Volumes/MacExt/Unity/PixelCCG/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll</HintPath>
+ <HintPath>/Users/lsh/Unity/Pixel CCG/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.SpriteShape.Editor">
- <HintPath>/Volumes/MacExt/Unity/PixelCCG/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll</HintPath>
+ <HintPath>/Users/lsh/Unity/Pixel CCG/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>/Volumes/MacExt/Unity/PixelCCG/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>/Users/lsh/Unity/Pixel CCG/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Path.Editor">
- <HintPath>/Volumes/MacExt/Unity/PixelCCG/Library/ScriptAssemblies/Unity.2D.Path.Editor.dll</HintPath>
+ <HintPath>/Users/lsh/Unity/Pixel CCG/Library/ScriptAssemblies/Unity.2D.Path.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>/Volumes/MacExt/Unity/PixelCCG/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>/Users/lsh/Unity/Pixel CCG/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>/Volumes/MacExt/Unity/PixelCCG/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>/Users/lsh/Unity/Pixel CCG/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Animation.Triangle.Runtime">
- <HintPath>/Volumes/MacExt/Unity/PixelCCG/Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll</HintPath>
+ <HintPath>/Users/lsh/Unity/Pixel CCG/Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="PsdPlugin">
- <HintPath>/Volumes/MacExt/Unity/PixelCCG/Library/ScriptAssemblies/PsdPlugin.dll</HintPath>
+ <HintPath>/Users/lsh/Unity/Pixel CCG/Library/ScriptAssemblies/PsdPlugin.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>/Volumes/MacExt/Unity/PixelCCG/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>/Users/lsh/Unity/Pixel CCG/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Mathematics">
- <HintPath>/Volumes/MacExt/Unity/PixelCCG/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+ <HintPath>/Users/lsh/Unity/Pixel CCG/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Psdimporter.Editor">
- <HintPath>/Volumes/MacExt/Unity/PixelCCG/Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll</HintPath>
+ <HintPath>/Users/lsh/Unity/Pixel CCG/Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.InternalAPIEngineBridge.001">
- <HintPath>/Volumes/MacExt/Unity/PixelCCG/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
+ <HintPath>/Users/lsh/Unity/Pixel CCG/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Sprite.Editor">
- <HintPath>/Volumes/MacExt/Unity/PixelCCG/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+ <HintPath>/Users/lsh/Unity/Pixel CCG/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Common.Runtime">
- <HintPath>/Volumes/MacExt/Unity/PixelCCG/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
+ <HintPath>/Users/lsh/Unity/Pixel CCG/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Tilemap.Editor">
- <HintPath>/Volumes/MacExt/Unity/PixelCCG/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+ <HintPath>/Users/lsh/Unity/Pixel CCG/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.SpriteShape.Runtime">
- <HintPath>/Volumes/MacExt/Unity/PixelCCG/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll</HintPath>
+ <HintPath>/Users/lsh/Unity/Pixel CCG/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.PixelPerfect">
- <HintPath>/Volumes/MacExt/Unity/PixelCCG/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll</HintPath>
+ <HintPath>/Users/lsh/Unity/Pixel CCG/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Animation.Editor">
- <HintPath>/Volumes/MacExt/Unity/PixelCCG/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
+ <HintPath>/Users/lsh/Unity/Pixel CCG/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
  </Reference>
  <Reference Include="com.unity.cinemachine.editor">
- <HintPath>/Volumes/MacExt/Unity/PixelCCG/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
+ <HintPath>/Users/lsh/Unity/Pixel CCG/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VisualStudio.Editor">
- <HintPath>/Volumes/MacExt/Unity/PixelCCG/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+ <HintPath>/Users/lsh/Unity/Pixel CCG/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Mathematics.Editor">
- <HintPath>/Volumes/MacExt/Unity/PixelCCG/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+ <HintPath>/Users/lsh/Unity/Pixel CCG/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>/Volumes/MacExt/Unity/PixelCCG/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>/Users/lsh/Unity/Pixel CCG/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Common.Editor">
- <HintPath>/Volumes/MacExt/Unity/PixelCCG/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
+ <HintPath>/Users/lsh/Unity/Pixel CCG/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.InternalAPIEditorBridge.001">
- <HintPath>/Volumes/MacExt/Unity/PixelCCG/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
+ <HintPath>/Users/lsh/Unity/Pixel CCG/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>/Volumes/MacExt/Unity/PixelCCG/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>/Users/lsh/Unity/Pixel CCG/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine">
  <HintPath>/Applications/Unity/Hub/Editor/2020.1.3f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
@@ -373,14 +374,14 @@
  <Reference Include="UnityEditor">
  <HintPath>/Applications/Unity/Hub/Editor/2020.1.3f1/Unity.app/Contents/Managed/UnityEditor.dll</HintPath>
  </Reference>
- <Reference Include="LiteDB">
- <HintPath>/Volumes/MacExt/Unity/PixelCCG/Assets/Scripts/RPG/Core/Plugins/LiteDB.dll</HintPath>
- </Reference>
  <Reference Include="Newtonsoft.Json">
- <HintPath>/Volumes/MacExt/Unity/PixelCCG/Assets/Scripts/RPG/Core/Plugins/Newtonsoft.Json.dll</HintPath>
+ <HintPath>/Users/lsh/Unity/Pixel CCG/Assets/Scripts/RPG/Core/Plugins/Newtonsoft.Json.dll</HintPath>
+ </Reference>
+ <Reference Include="LiteDB">
+ <HintPath>/Users/lsh/Unity/Pixel CCG/Assets/Scripts/RPG/Core/Plugins/LiteDB.dll</HintPath>
  </Reference>
  <Reference Include="Mono.Data.Sqlite">
- <HintPath>/Volumes/MacExt/Unity/PixelCCG/Assets/Scripts/RPG/Core/Plugins/SQLite/Common/Mono.Data.Sqlite.dll</HintPath>
+ <HintPath>/Users/lsh/Unity/Pixel CCG/Assets/Scripts/RPG/Core/Plugins/SQLite/Common/Mono.Data.Sqlite.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>/Applications/Unity/Hub/Editor/2020.1.3f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -736,11 +737,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="UIUtilities.csproj">
-      <Project>{58c7eef5-4d7c-6de9-73c1-bd6488894dbf}</Project>
+      <Project>{65342135-e291-3dd0-121c-27f4791aa85e}</Project>
       <Name>UIUtilities</Name>
     </ProjectReference>
     <ProjectReference Include="BaseRPG.csproj">
-      <Project>{c925ab54-6675-c2e4-9016-6458886aafde}</Project>
+      <Project>{df722259-a91b-f214-d99c-307a91269d99}</Project>
       <Name>BaseRPG</Name>
     </ProjectReference>
   </ItemGroup>

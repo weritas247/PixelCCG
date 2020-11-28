@@ -12,7 +12,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{58c7eef5-4d7c-6de9-73c1-bd6488894dbf}</ProjectGuid>
+    <ProjectGuid>{65342135-e291-3dd0-121c-27f4791aa85e}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>UIUtilities</AssemblyName>
@@ -65,10 +65,10 @@
      <Compile Include="Assets\Scripts\RPG\UIUtilities\Scripts\UIAnimatorExtension.cs" />
      <None Include="Assets\Scripts\RPG\UIUtilities\UIUtilities.asmdef" />
  <Reference Include="UnityEditor.UI">
- <HintPath>/Volumes/MacExt/Unity/PixelCCG/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>/Users/lsh/Unity/Pixel CCG/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>/Volumes/MacExt/Unity/PixelCCG/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>/Users/lsh/Unity/Pixel CCG/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine">
  <HintPath>/Applications/Unity/Hub/Editor/2020.1.3f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
@@ -265,17 +265,20 @@
  <Reference Include="UnityEditor.OSXStandalone.Extensions">
  <HintPath>/Applications/Unity/Hub/Editor/2020.1.3f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
  </Reference>
+ <Reference Include="UnityEditor.Android.Extensions">
+ <HintPath>/Applications/Unity/Hub/Editor/2020.1.3f1/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEditor.iOS.Extensions">
  <HintPath>/Applications/Unity/Hub/Editor/2020.1.3f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll</HintPath>
  </Reference>
- <Reference Include="LiteDB">
- <HintPath>/Volumes/MacExt/Unity/PixelCCG/Assets/Scripts/RPG/Core/Plugins/LiteDB.dll</HintPath>
- </Reference>
  <Reference Include="Newtonsoft.Json">
- <HintPath>/Volumes/MacExt/Unity/PixelCCG/Assets/Scripts/RPG/Core/Plugins/Newtonsoft.Json.dll</HintPath>
+ <HintPath>/Users/lsh/Unity/Pixel CCG/Assets/Scripts/RPG/Core/Plugins/Newtonsoft.Json.dll</HintPath>
+ </Reference>
+ <Reference Include="LiteDB">
+ <HintPath>/Users/lsh/Unity/Pixel CCG/Assets/Scripts/RPG/Core/Plugins/LiteDB.dll</HintPath>
  </Reference>
  <Reference Include="Mono.Data.Sqlite">
- <HintPath>/Volumes/MacExt/Unity/PixelCCG/Assets/Scripts/RPG/Core/Plugins/SQLite/Common/Mono.Data.Sqlite.dll</HintPath>
+ <HintPath>/Users/lsh/Unity/Pixel CCG/Assets/Scripts/RPG/Core/Plugins/SQLite/Common/Mono.Data.Sqlite.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>/Applications/Unity/Hub/Editor/2020.1.3f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
