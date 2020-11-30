@@ -55,6 +55,7 @@
      <Compile Include="Assets\Scripts\Enemy.cs" />
      <Compile Include="Assets\Scripts\TransferMap.cs" />
      <Compile Include="Assets\Download\Pixel Heroes Pack\Demo\Scripts\StormMage.cs" />
+     <Compile Include="Assets\Scripts\Player1.cs" />
      <Compile Include="Assets\Scripts\CharacterStats.cs" />
      <Compile Include="Assets\Download\Pixel Heroes Pack\Demo\Scripts\CharacterSelector_PixelHeroes.cs" />
      <Compile Include="Assets\Download\Pixel Heroes Pack\Demo\Scripts\Projectile_Rogue.cs" />
@@ -84,6 +85,8 @@
      <Compile Include="Assets\Scripts\Test\Test_Transform.cs" />
      <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\DynamicJoystick.cs" />
      <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\FixedJoystick.cs" />
+     <Compile Include="Assets\Scripts\RoomCondition.cs" />
+     <Compile Include="Assets\Scripts\PlayerTargeting.cs" />
      <Compile Include="Assets\Scripts\Player.cs" />
      <Compile Include="Assets\Download\Pixel Heroes Pack\Demo\Scripts\Druid.cs" />
      <Compile Include="Assets\Scripts\NonPlayerCharacter.cs" />
@@ -97,7 +100,6 @@
      <Compile Include="Assets\Scripts\Merchant.cs" />
      <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\VariableJoystick.cs" />
      <Compile Include="Assets\Download\Pixel Heroes Pack\Demo\Scripts\Warlock.cs" />
-     <Compile Include="Assets\Scripts\Player1.cs" />
      <None Include="Assets\BlackCrusaderUI\ReadMe.txt" />
      <None Include="Assets\Download\Pixel Heroes Pack\ColorSwap\Sprites-ColorSwap.shader" />
      <None Include="Assets\Tiles\RF_Catacombs_v1.0\public-license.txt" />

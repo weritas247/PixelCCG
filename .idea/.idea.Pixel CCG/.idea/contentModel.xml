@@ -71,7 +71,9 @@
           <e p="NonPlayerCharacter.cs" t="Include" />
           <e p="Player.cs" t="Include" />
           <e p="Player1.cs" t="Include" />
+          <e p="PlayerTargeting.cs" t="Include" />
           <e p="Projectile.cs" t="Include" />
+          <e p="RoomCondition.cs" t="Include" />
           <e p="RPG" t="Include">
             <e p="Core" t="Include">
               <e p="BaseRPG.asmdef" t="Include" />
