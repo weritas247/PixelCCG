@@ -248,6 +248,7 @@
             <e p="Test_Circle.cs" t="Include" />
             <e p="Test_Draw.cs" t="Include" />
             <e p="Test_Player.cs" t="Include" />
+            <e p="Test_RayCast.cs" t="Include" />
             <e p="Test_Scene1.cs" t="Include" />
             <e p="Test_Transform.cs" t="Include" />
           </e>

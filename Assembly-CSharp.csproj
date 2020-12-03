@@ -53,6 +53,7 @@
      <Compile Include="Assets\Joystick Pack\Scripts\Base\Joystick.cs" />
      <Compile Include="Assets\Download\Pixel Heroes Pack\Demo\Scripts\Priest.cs" />
      <Compile Include="Assets\Scripts\Enemy.cs" />
+     <Compile Include="Assets\Scripts\Test\Test_RayCast.cs" />
      <Compile Include="Assets\Scripts\TransferMap.cs" />
      <Compile Include="Assets\Download\Pixel Heroes Pack\Demo\Scripts\StormMage.cs" />
      <Compile Include="Assets\Scripts\Player1.cs" />
