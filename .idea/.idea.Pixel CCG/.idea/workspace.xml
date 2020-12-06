@@ -20,121 +20,281 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81316d52-1093-4ce8-aac6-68ee5c415005" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/GameScene 1.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/GameScene 1.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/Test_Player2.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/Test_Player2.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Pixel CCG/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Pixel CCG/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Pixel CCG/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Pixel CCG/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaseRPG.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/BaseRPG.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/GameScene 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/GameScene 1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/RPG/Core.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/08/08c66c7e22401951418d6a47fde864d3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/0f/0f82b497855446f7cf1cbd556664504d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/10/109bb50e1c54b47e49eee67c4cb79e5a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/12/129027ed899f299c111acd8f07ec32ad" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/14/147b592508e406305a3426edb6ffd173" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/18/18b58dbd206fd255fd4249ab7ecdb85f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/1c/1cc0fcd9bdb3a3771b38b5c9d88527fc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/1f/1fd1710d93d57c9c49fd4c4b53032801" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/22/2238a3ab82a98a9bca8b3f7ef9e28f1b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/28/28bb5b9f26cb8f816e49df909055cf34" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/30/306e3220c856271cb577c5c2c887a2fa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/32/326c10a1ced3c5dd75104d0934e9527b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/38/38dbe5231bff635ef926f65420340c6d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/59/594ab69582e206db71fcc9aa4aa380b7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/66/66fb90cfe9b6347c96b033b0a4967679" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/67/67e5c162d9dba9daa34fec471d2673a7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/68/68aac826e6511a6ceb2a1233da7d345f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/73/73c44c73572690ebde1dca6f9bcc8036" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/77/7754298a6a4f035afc49865dce498568" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/7c/7ca5843a876555cf8b3aa51cca6b87cb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/82/82d144492d08519f600d7edb956e325d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/8f/8fa2815dc8980ad9d1e5003237f3e009" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/a0/a0c1151a6c77cb297db9825d4be42ca9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/a2/a2d27e9e01c20f98db02edfc2ca3f4a3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/a6/a609dcf7099c473f5d7a2fbce2ffac5b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/a6/a629752a472ef497111a6802c95d678a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/a7/a7382a70ad8e02d62e358e5a02bf20a4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ac/acb8f97c5e84f6100f8d4e31419656e3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ae/ae43d2a90ca4b2758f68a99070aa81c7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/bf/bf2cd6c2e06c3488b1235b200f95912a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/c2/c2776bf52f72616feacc3e2a67226932" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/c8/c8d073b98f95f9fd8b1079ecda4d39f3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/cf/cf1ed7fa9067add8be375590edcff5b2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/d2/d21cce9654772c1a04126220b9a5cc09" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/db/db45d48ac90547387113be918d8685d4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/e9/e94304d23b7891393dc63ba2825fa0bf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/eb/eb87c2677cc47ff9f9d8c78035c81672" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ed/ed77464414fa4391d6a8809359852a84" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/f2/f2ff01a2b31da2cf30069df177235668" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/fc/fc2cc24ad72518a609be9a52c14ed6b2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/fd/fd7fbc500bfc9f3fd482f0385ac8f422" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/fe/fe7c9569113ff74e1977628bb14d4764" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/2d/2d3e7d2ebe79f120e86a63c3126954db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/39/3946290bd1200384700bfb056f162d12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/4c/4c413b6bdccba9e4536cebe178a8ed62" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/50/506ef1412b642feca471073c1f8f5310" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/52/5232eb94dc772452f92b06935785c38d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/6b/6bc616f050b24672e2b466f29ef23219" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/85/85ce8673a76968a842b8c27bf595dc85" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/87/87fad76f0c472139c1d4750f0c95a299" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/98/983712a771ae7ea235725498c1efd79f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ad/adaf2e19b08f6e8dc323d4b788a7aab3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/e2/e20f664f8282096306aa7e2568ca8d43" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/e3/e3d034e60463d62c6fb2467cf430b30d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/e4/e44b3011055961883b9c687edb4f4dd6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/e4/e4d4ba714c83cbad752a7f600f0c9dfa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/eb/ebc1bd70bfbb5b22a3c324610dc5ef3f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/f0/f0a9a0d78be06ce963123f45c0f6cb02" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/fd/fd45e984bb2aa40eac986c9514b955fa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/fd/fdc6a1c39105db84ed6244333f19e724" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/EditorInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/EditorInstance.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/CHANGELOG.md.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/CHANGELOG.md.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/EditorResources.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/EditorResources.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/EditorResources/CMWaveform.compute" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/EditorResources/CMWaveform.compute" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/EditorResources/CMWaveform.compute.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/EditorResources/CMWaveform.compute.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/EditorResources/CMWaveform.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/EditorResources/CMWaveform.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/EditorResources/CMWaveform.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/EditorResources/CMWaveform.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/EditorResources/Cinemachine_header.tif.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/EditorResources/Cinemachine_header.tif.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/EditorResources/PostProcessLayer.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/EditorResources/PostProcessLayer.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/EditorResources/StdLib.hlsl" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/EditorResources/StdLib.hlsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/EditorResources/StdLib.hlsl.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/EditorResources/StdLib.hlsl.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/EditorResources/cm_logo_sm.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/EditorResources/cm_logo_sm.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineBasicMultiChannelPerlinEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineBasicMultiChannelPerlinEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineBlendListCameraEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineBlendListCameraEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineBlenderSettingsEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineBlenderSettingsEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineBrainEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineBrainEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineClearShotEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineClearShotEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineColliderEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineColliderEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineComposerEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineComposerEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineConfinerEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineConfinerEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineExternalCameraEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineExternalCameraEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineFramingTransposerEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineFramingTransposerEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineFreeLookEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineFreeLookEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineGroupComposerEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineGroupComposerEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineHardLockToTargetEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineHardLockToTargetEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineHardLookAtEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineHardLookAtEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineMixingCameraEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineMixingCameraEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineNoiseSettingsEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineNoiseSettingsEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineOrbitalTransposerEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineOrbitalTransposerEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachinePOVEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachinePOVEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachinePathEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachinePathEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineSameAsFollowTargetEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineSameAsFollowTargetEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineScreenComposerGuides.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineScreenComposerGuides.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineSmoothPathEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineSmoothPathEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineStateDrivenCameraEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineStateDrivenCameraEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineStoryboardEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineStoryboardEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineTargetGroupEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineTargetGroupEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineTrackedDollyEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineTrackedDollyEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineTransposerEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineTransposerEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineVirtualCameraEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Editors/CinemachineVirtualCameraEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/EventHelpers.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/EventHelpers.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/EventHelpers/CinemachineTriggerActionEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/EventHelpers/CinemachineTriggerActionEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Experimental.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Experimental.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Experimental/CinemachineNewFreeLookEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Experimental/CinemachineNewFreeLookEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Experimental/CinemachineNewVirtualCameraEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Experimental/CinemachineNewVirtualCameraEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Experimental/VcamStageEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Experimental/VcamStageEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Impulse.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Impulse.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Impulse/CinemachineCollisionImpulseSourceEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Impulse/CinemachineCollisionImpulseSourceEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Impulse/CinemachineImpulseChannelPropertyDrawer.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Impulse/CinemachineImpulseChannelPropertyDrawer.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Impulse/CinemachineImpulseChannels.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Impulse/CinemachineImpulseChannels.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Impulse/CinemachineImpulseDefinitionPropertyDrawer.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Impulse/CinemachineImpulseDefinitionPropertyDrawer.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Impulse/CinemachineImpulseEnvelopePropertyDrawer.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Impulse/CinemachineImpulseEnvelopePropertyDrawer.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Impulse/CinemachineImpulseListenerEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Impulse/CinemachineImpulseListenerEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Impulse/CinemachineImpulseSourceEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Impulse/CinemachineImpulseSourceEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Menus.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Menus.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Menus/CinemachineMenu.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Menus/CinemachineMenu.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/PostProcessing.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/PostProcessing.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/PostProcessing/CinemachinePostProcessingEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/PostProcessing/CinemachinePostProcessingEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/PostProcessing/CinemachineVolumeSettingsEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/PostProcessing/CinemachineVolumeSettingsEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/PropertyDrawers.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/PropertyDrawers.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/PropertyDrawers/AxisStatePropertyDrawer.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/PropertyDrawers/AxisStatePropertyDrawer.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/PropertyDrawers/CinemachineBlendDefinitionPropertyDrawer.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/PropertyDrawers/CinemachineBlendDefinitionPropertyDrawer.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/PropertyDrawers/CinemachineTagFieldPropertyDrawer.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/PropertyDrawers/CinemachineTagFieldPropertyDrawer.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/PropertyDrawers/EmbeddedAssetPropertyDrawer.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/PropertyDrawers/EmbeddedAssetPropertyDrawer.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/PropertyDrawers/LensSettingsPropertyDrawer.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/PropertyDrawers/LensSettingsPropertyDrawer.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/PropertyDrawers/NoiseSettingsPropertyDrawer.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/PropertyDrawers/NoiseSettingsPropertyDrawer.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/PropertyDrawers/OrbitalTransposerHeadingPropertyDrawer.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/PropertyDrawers/OrbitalTransposerHeadingPropertyDrawer.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Timeline.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Timeline.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Timeline/CinemachineShotClipEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Timeline/CinemachineShotClipEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Timeline/CinemachineShotEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Timeline/CinemachineShotEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Utility.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Utility.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Utility/BaseEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Utility/BaseEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Utility/CinemachineLensPresets.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Utility/CinemachineLensPresets.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Utility/EmbeddedAssetHelpers.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Utility/EmbeddedAssetHelpers.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Utility/InspectorUtility.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Utility/InspectorUtility.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Utility/ReflectionHelpers.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Utility/ReflectionHelpers.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Utility/SaveDuringPlay.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Utility/SaveDuringPlay.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Utility/ScriptableObjectUtility.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Utility/ScriptableObjectUtility.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Utility/SerializedPropertyHelper.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Utility/SerializedPropertyHelper.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Windows.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Windows.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Windows/AboutWindow.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Windows/AboutWindow.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Windows/CinemachineColliderPrefs.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Windows/CinemachineColliderPrefs.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Windows/CinemachineSettings.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Windows/CinemachineSettings.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Windows/WaveformWindow.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/Windows/WaveformWindow.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/com.unity.cinemachine.Editor.asmdef" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/com.unity.cinemachine.Editor.asmdef" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/com.unity.cinemachine.Editor.asmdef.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Editor/com.unity.cinemachine.Editor.asmdef.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Gizmos.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Gizmos.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Gizmos/cm_logo.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Gizmos/cm_logo.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/LICENSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/LICENSE.md.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/LICENSE.md.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Presets.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Presets.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Presets/Noise.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Presets/Noise.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Presets/Noise/6D Shake.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Presets/Noise/6D Shake.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Presets/Noise/6D Shake.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Presets/Noise/6D Shake.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Presets/Noise/Handheld_normal_extreme.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Presets/Noise/Handheld_normal_extreme.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Presets/Noise/Handheld_normal_extreme.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Presets/Noise/Handheld_normal_extreme.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Presets/Noise/Handheld_normal_mild.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Presets/Noise/Handheld_normal_mild.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Presets/Noise/Handheld_normal_mild.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Presets/Noise/Handheld_normal_mild.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Presets/Noise/Handheld_normal_strong.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Presets/Noise/Handheld_normal_strong.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Presets/Noise/Handheld_normal_strong.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Presets/Noise/Handheld_normal_strong.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Presets/Noise/Handheld_tele_mild.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Presets/Noise/Handheld_tele_mild.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Presets/Noise/Handheld_tele_mild.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Presets/Noise/Handheld_tele_mild.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Presets/Noise/Handheld_tele_strong.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Presets/Noise/Handheld_tele_strong.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Presets/Noise/Handheld_tele_strong.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Presets/Noise/Handheld_tele_strong.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Presets/Noise/Handheld_wideangle_mild.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Presets/Noise/Handheld_wideangle_mild.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Presets/Noise/Handheld_wideangle_mild.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Presets/Noise/Handheld_wideangle_mild.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Presets/Noise/Handheld_wideangle_strong.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Presets/Noise/Handheld_wideangle_strong.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Presets/Noise/Handheld_wideangle_strong.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Presets/Noise/Handheld_wideangle_strong.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/README.md.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/README.md.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/AssemblyInfo.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/AssemblyInfo.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Behaviours.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Behaviours.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Behaviours/CinemachineBlendListCamera.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Behaviours/CinemachineBlendListCamera.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Behaviours/CinemachineBrain.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Behaviours/CinemachineBrain.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Behaviours/CinemachineCameraOffset.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Behaviours/CinemachineCameraOffset.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Behaviours/CinemachineClearShot.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Behaviours/CinemachineClearShot.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Behaviours/CinemachineCollider.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Behaviours/CinemachineCollider.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Behaviours/CinemachineConfiner.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Behaviours/CinemachineConfiner.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Behaviours/CinemachineDollyCart.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Behaviours/CinemachineDollyCart.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Behaviours/CinemachineExternalCamera.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Behaviours/CinemachineExternalCamera.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Behaviours/CinemachineFollowZoom.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Behaviours/CinemachineFollowZoom.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Behaviours/CinemachineFreeLook.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Behaviours/CinemachineFreeLook.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Behaviours/CinemachineMixingCamera.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Behaviours/CinemachineMixingCamera.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Behaviours/CinemachinePath.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Behaviours/CinemachinePath.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Behaviours/CinemachinePipeline.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Behaviours/CinemachinePipeline.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Behaviours/CinemachinePixelPerfect.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Behaviours/CinemachinePixelPerfect.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Behaviours/CinemachineSmoothPath.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Behaviours/CinemachineSmoothPath.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Behaviours/CinemachineStateDrivenCamera.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Behaviours/CinemachineStateDrivenCamera.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Behaviours/CinemachineStoryboard.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Behaviours/CinemachineStoryboard.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Behaviours/CinemachineTargetGroup.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Behaviours/CinemachineTargetGroup.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Behaviours/CinemachineVirtualCamera.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Behaviours/CinemachineVirtualCamera.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Components.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Components.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Components/CinemachineBasicMultiChannelPerlin.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Components/CinemachineBasicMultiChannelPerlin.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Components/CinemachineComposer.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Components/CinemachineComposer.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Components/CinemachineFramingTransposer.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Components/CinemachineFramingTransposer.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Components/CinemachineGroupComposer.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Components/CinemachineGroupComposer.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Components/CinemachineHardLockToTarget.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Components/CinemachineHardLockToTarget.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Components/CinemachineHardLookAt.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Components/CinemachineHardLookAt.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Components/CinemachineOrbitalTransposer.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Components/CinemachineOrbitalTransposer.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Components/CinemachinePOV.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Components/CinemachinePOV.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Components/CinemachineSameAsFollowTarget.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Components/CinemachineSameAsFollowTarget.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Components/CinemachineTrackedDolly.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Components/CinemachineTrackedDolly.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Components/CinemachineTransposer.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Components/CinemachineTransposer.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/AxisState.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/AxisState.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/CameraState.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/CameraState.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/CinemachineBlend.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/CinemachineBlend.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/CinemachineBlenderSettings.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/CinemachineBlenderSettings.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/CinemachineComponentBase.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/CinemachineComponentBase.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/CinemachineCore.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/CinemachineCore.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/CinemachineDebug.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/CinemachineDebug.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/CinemachineExtension.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/CinemachineExtension.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/CinemachineInputAxisDriver.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/CinemachineInputAxisDriver.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/CinemachinePathBase.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/CinemachinePathBase.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/CinemachinePropertyAttribute.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/CinemachinePropertyAttribute.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/CinemachineTouchInputMapper.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/CinemachineTouchInputMapper.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/CinemachineVirtualCameraBase.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/CinemachineVirtualCameraBase.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/GaussianFilter.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/GaussianFilter.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/ICinemachineCamera.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/ICinemachineCamera.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/ICinemachineComponent.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/ICinemachineComponent.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/LensSettings.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/LensSettings.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/NoiseSettings.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/NoiseSettings.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/Predictor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/Predictor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/RuntimeUtility.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/RuntimeUtility.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/SignalSourceAsset.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/SignalSourceAsset.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/SplineHelpers.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/SplineHelpers.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/UnityVectorExtensions.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/UnityVectorExtensions.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/UpdateTracker.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Core/UpdateTracker.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/EventHelpers.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/EventHelpers.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/EventHelpers/CinemachineTriggerAction.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/EventHelpers/CinemachineTriggerAction.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Experimental.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Experimental.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Experimental/CinemachineNewFreeLook.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Experimental/CinemachineNewFreeLook.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Experimental/CinemachineNewVirtualCamera.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Experimental/CinemachineNewVirtualCamera.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Impulse.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Impulse.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Impulse/CinemachineCollisionImpulseSource.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Impulse/CinemachineCollisionImpulseSource.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Impulse/CinemachineFixedSignal.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Impulse/CinemachineFixedSignal.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Impulse/CinemachineImpulseDefinition.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Impulse/CinemachineImpulseDefinition.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Impulse/CinemachineImpulseListener.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Impulse/CinemachineImpulseListener.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Impulse/CinemachineImpulseManager.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Impulse/CinemachineImpulseManager.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Impulse/CinemachineImpulseSource.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Impulse/CinemachineImpulseSource.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/PostProcessing.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/PostProcessing.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/PostProcessing/CinemachinePostProcessing.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/PostProcessing/CinemachinePostProcessing.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/PostProcessing/CinemachineVolumeSettings.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/PostProcessing/CinemachineVolumeSettings.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Timeline.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Timeline.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Timeline/CinemachineMixer.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Timeline/CinemachineMixer.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Timeline/CinemachineShot.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Timeline/CinemachineShot.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Timeline/CinemachineShotPlayable.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Timeline/CinemachineShotPlayable.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Timeline/CinemachineTrack.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Timeline/CinemachineTrack.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/com.unity.cinemachine.asmdef" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/com.unity.cinemachine.asmdef" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/com.unity.cinemachine.asmdef.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/com.unity.cinemachine.asmdef.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Tests.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Tests.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Tests/Editor.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Tests/Editor.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Tests/Editor/DampingTests.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Tests/Editor/DampingTests.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Tests/Editor/com.unity.cinemachine.EditorTests.asmdef" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Tests/Editor/com.unity.cinemachine.EditorTests.asmdef" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Tests/Editor/com.unity.cinemachine.EditorTests.asmdef.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Tests/Editor/com.unity.cinemachine.EditorTests.asmdef.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Tests/Runtime.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Tests/Runtime.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Tests/Runtime/RuntimeExampleTest.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Tests/Runtime/RuntimeExampleTest.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Tests/Runtime/com.unity.cinemachine.Tests.asmdef" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Tests/Runtime/com.unity.cinemachine.Tests.asmdef" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Tests/Runtime/com.unity.cinemachine.Tests.asmdef.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Tests/Runtime/com.unity.cinemachine.Tests.asmdef.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/license.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/license.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/license.txt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/license.txt.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/package.json.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/package.json.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageManager/ProjectCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageManager/ProjectCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ProtocolInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ProtocolInstance.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/BaseRPG.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/BaseRPG.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/BaseRPG.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/BaseRPG.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/MainStageHierarchy/8f/8fd65426490f636435c901d65ce7ed24.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/MainStageHierarchy/8f/8fd65426490f636435c901d65ce7ed24.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/8b/8b0d1387a24a688f32df764794220fab.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/8b/8b0d1387a24a688f32df764794220fab.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-0638ebc767dae4971897369013d1d363" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-0ca2554ead8674ebd89d0c3c5fe7cb75" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-1069bde3a43cb4513b34cae3cc1c9b03" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-1579e67dc788b400d9351b6baa113847" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-18b2f565141f84ebb8fd86d3ba82756d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-1b501047ea9274e2a9bf36427a396709" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-1dbe4bdfc3ca741b2827852b853b05c2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-2250926d51e2541018354b4fb8701edd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-25c3bc1407dfa46e29a215d10387949b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-2966f92b1857e47788fe3d4ea154919f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-2c17ef81774f04f76afb53eb4d745d09" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-2f1fd9b0e694e4427a514fdd219abbfd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-310c4ca27670d4357883ff865c3cb56c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-3e3116509e6694de7b61b950aa680c35" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-4306de7a76e6042ceaed85283a59504e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-482ec27b8792b4a629f676d23fcaebdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-4a9ab239d0ca64784935c91ec15a53d0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-4fccd5a1449b946309566f738ccf6af0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-51668cae13466441f8b91be9f1f98cc0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-599f726ad3e074d7599f06c84e484745" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-5a1bf2edcb68f49b38cf4fb4c5c91b53" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-5d9c850193f904cf78d1a9b4ead201d6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-6579c1720f8a44e4fbf10e6e4bb578c7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-6992578a2b6974ca48415e9cae3dbcd1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-6ce28e1f08952447f9cf62b1d840dd43" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-6fbe87fad2c33415d8c3e1dfa10b6890" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-76c9e99430f2749d0bcad36f7d383b27" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-798f781587ace4cf2b40fdad072523e9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-7afa792298bf94cef82a32381265aca1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-850a7d588630a4729947d5a9d6d3b088" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-853fb47084f3f4867b6dacb18eb52cfe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-88b60539072e9439ab1d1fe5dec5999d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-8b507ee67ea95412988e7a63a3fd08fa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-8f31d461463b54c5c9e58b2456b60d4e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-93175a598ca444f51afdf13331e7d112" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-99f00ee6bcff34886883f5abb18717ad" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-9b0d7653935d649ceb13898318b062b0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-9ee1038a4280942688761c722f80154e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-a20bcbd8be4e248cfabae6612131078b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-b32dbe173628f4f0f9aa48e87a32ae73" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-b465ff04a79be475f91991ae57d79cb6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-b52078f63a719465cb7e645861d54ef9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-c47770a262851441cbdc6a69bf600244" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-c8ea3ffe1d0874439817a452ff32e009" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-cc2e83704b1ea463dbdb19bf50ad600b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-d311b518966d14dbaa493d859a6498e6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-dcb56a70f197f4fa88b1efd64eb10c8a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-e14fb578e2abc46abbf29c7dcfb2e030" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-e835150dcccea4b9dac6e12e37959c9f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-fa39ff178c145496fb8033606760400c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-fa72ef93e3f554ef5a07c48de383d58a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-fea4e3d49ac9146d5b0422d8f796d85b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-00bbf1fe8147b47f1a1ff021e0d4e84a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-06cf9aa1cfbb54fa8b30872b256d37cb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-08e877e2d81e64cf88cbaf5306346a90" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-1b286e7bae12d4d35a921cfa6eb8e753" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-1c0c18828715845cb9377e4c82045b3a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-1db7053078ad945c9a4eb921d7ce3803" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-24397b52a065d44ee98be87bd29bbb3c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-2645927e82d924b7097d037b06c150e6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-3467e34eb2aa9425fb62c27df9b0d4af" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-398eff05fbe604c7393ff23565f5d9d1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-46f6deabbb55a4efba24eb018dc961ad" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-4d37fa75311ba478a9d4b6293425fefe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-559065ab60eb54c8ab5e8b4665811865" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-5b2a3c69007d94e77828ab942015ec77" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-634fd33ca60a8430584ba253dda67a0b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-768f1ce8f9de8408f8ef46be8e32f82e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-85db0745829e14c91bb93d2f45d495a3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-85e3d16c000fe443ea2800821a5119a8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-8df21ba9dd62740c09055b511d6175dd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-8ede4d35f53d1401698f82b2c31aa2df" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-8f64fe4fbb3354cb7aeea6cf24c08a16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-8f82b008f8ff14c7fb38278c049fed45" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-9567eb8f6e6ad451b987c395c634f1d2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-9ad8d36e0a63b45daaf33c34a8d32212" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-a3024a9e4ea2a423199f8cf9525bf4f7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-a32fee817d97e4c17aa32bae705a6785" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-a7c2b3fb10d3a4cc1aec0f00d0dc47ac" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-bc256652817ab4621ae0543cf62b2ea1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-c01b0f8392dc44d75bd6ecdf1608e680" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-c1a259eece96d4935965490ee3262fbe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-c41ef997b79a5497491ad37edaaca45c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-c9cb73480f28c470ab6974443945f974" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-ccc2e88b71a3044f59358ee8ce1f0f34" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-d8f862890a98a47419800706c8dd3cf2" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/UIUtilities.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/UIUtilities.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,85 +309,57 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BaseCharacterEntity.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Joystick Pack/Examples/JoystickPlayerExample.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEngine.TestRunner/Assertions/AllocatingGCMemoryConstraint.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/UI/Stage/BaseUIStagePreparation.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file:///Applications/Unity/Hub/Editor/2020.1.3f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Button.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/UI/InventoryManagement/UIItemList.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LaunchPoint.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RoomCondition.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/GamePlay/BaseCharacterEntity.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/Scene/LoginSceneManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FB001E01-371B-4ADC-A200-13E0AC763896/59/3494dfa5/Dictionary`2.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerTargeting.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Test/Test_RayCast.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/GameService/GameServiceResult.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/UI/Stage/UIStagePreparation.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3D496C8E-82AE-4EBD-B5D2-754C57C486CF/7a/77e0934f/Component.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TransferMap.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IntersectTriangle.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.16/UnityEditor.TestRunner/UnityTestProtocol/TestPlanMessage.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/Downloads/PlayerTargeting.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.5.0/Runtime/Behaviours/CinemachineBrain.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/PlayerData/Player1.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Exercise.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3D496C8E-82AE-4EBD-B5D2-754C57C486CF/62/eb4c83cb/Behaviour.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1C7EDCAD-93A5-4BA1-99BA-BEBEB646794F/e4/872e1737/IPointerUpHandler.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Projectile.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/GameService/Implement/SQLite/SQLiteGameServiceBattle.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/GameService/Implement/SQLite/SQLiteGameServiceAuth.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/GameService/Implement/SQLite/SQLiteGameServiceItem.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/PlayerData/PlayerItem.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/GamePlay/BaseCharacterEntity.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/GameData/Item/CharacterItem.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/GameData/BaseSkill.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/GameData/BaseStage.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/PlayerData/PlayerStamina.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/PlayerData/PlayerAuth.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/PlayerData/Interface/IClan.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/Scene/LoginSceneManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/GameService/Implement/SQLite/SQLiteGameServiceHelpers.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/GameService/BaseGameService.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/GameService/Implement/SQLite/SQLiteGameServiceBattle.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/GameService/GameServiceResult.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/GameService/Implement/SQLite/SQLiteGameServiceSocial.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/PlayerData/PlayerBattle.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/GameService/Implement/WebServiceClient/WebServiceClient.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/UI/Player/UIPlayerList.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/UI/Player/UIPlayer.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/UI/Player/UIStamina.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/UI/Stage/BaseUIStage.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/GamePlay/BaseGamePlayManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/GameInstance.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/UI/Stage/BaseUIStagePreparation.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/GameData/GameDatabase.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/GameService/Implement/SQLite/SQLiteGameService.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterStats.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Exercise.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/UI/InventoryManagement/UIInventoryManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Joystick Pack/Examples/JoystickPlayerExample.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI_Game_BottomButtons.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UIManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Test_Transform.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Test_Circle.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Test_Draw.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/IntersectTriangle.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Test_Player.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Test_Scene1.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/SpawnPoint.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/BaseCharacterEntity.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Player1.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/RoomCondition.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/JoystickPlayer.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Test/Test_Scene1.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Test/Test_RayCast.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/LaunchPoint.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerTargeting.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI_Popup_Inventory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI_Popup_Map.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI_Popup_Stat.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FadeManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/GameService/GameServiceResult.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/UI/InventoryManagement/UIItemSell.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/UI/InventoryManagement/UIItemSelection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/PlayerData/PlayerItemSort.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/PlayerData/BasePlayerData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/GameData/GameDatabase.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/UI/Gameplay/UICharacterBuff.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/UI/Gameplay/UICharacterStatsGeneric.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/UI/Gameplay/UIGamePlayGeneric.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/UI/InventoryManagement/UIEquipmentManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/UI/InventoryManagement/UIItemListFilter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/UI/Player/UIItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/GameData/Item/Item.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/GameData/Item/EquipmentItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameInstance.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/PlayerData/PlayerItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/UI/InventoryManagement/UIInventoryManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Projectile.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RubyController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TransferMap.cs" />
+        <option value="$PROJECT_DIR$/Assets/Joystick Pack/Scripts/Base/Joystick.cs" />
+        <option value="$PROJECT_DIR$/Assets/Joystick Pack/Scripts/Joysticks/VariableJoystick.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/JoystickPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/UIUtilities/Scripts/UIFollowWorldObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/UIUtilities/Scripts/UIFollowWorldPosition.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BaseCharacterEntity.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterStats.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Enemy.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/Test_Player.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/Test_Player2.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
       </list>
     </option>
@@ -243,13 +375,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3938294" />
-    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.29945552" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.35036495" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.3000811" />
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="XThreadsFramesViewSplitterKey" value="0.44592032" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -257,7 +387,6 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor &amp; Play">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
@@ -289,17 +418,6 @@
       <updated>1603600705018</updated>
       <workItem from="1603600707625" duration="26557000" />
       <workItem from="1604148498601" duration="17638000" />
-      <workItem from="1604628958978" duration="11996000" />
-      <workItem from="1604648411630" duration="2587000" />
-      <workItem from="1604728850764" duration="9605000" />
-      <workItem from="1605171280079" duration="2065000" />
-      <workItem from="1605335221333" duration="20880000" />
-      <workItem from="1605528576281" duration="6532000" />
-      <workItem from="1606576837860" duration="17879000" />
-      <workItem from="1606823005219" duration="6072000" />
-      <workItem from="1606915875068" duration="88000" />
-      <workItem from="1607003398533" duration="6997000" />
-      <workItem from="1607261394056" duration="1638000" />
     </task>
     <servers />
   </component>
@@ -321,228 +439,152 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="849" height="464" key="DebuggerActiveHint" timestamp="1607008043118">
+    <state width="849" height="464" key="DebuggerActiveHint" timestamp="1603899469916">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="849" height="464" key="DebuggerActiveHint/0.23.2560.1417@0.23.2560.1417" timestamp="1607008043118" />
-    <state width="1133" height="287" key="GridCell.Tab.0.bottom" timestamp="1607083165198">
+    <state width="849" height="464" key="DebuggerActiveHint/0.23.2560.1417@0.23.2560.1417" timestamp="1603899469916" />
+    <state width="1264" height="289" key="GridCell.Tab.0.bottom" timestamp="1604059777058">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1040" height="225" key="GridCell.Tab.0.bottom/0.23.2048.1129@0.23.2048.1129" timestamp="1605348522345" />
-    <state width="1133" height="287" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1607083165198" />
-    <state width="1133" height="287" key="GridCell.Tab.0.center" timestamp="1607083165198">
+    <state width="1264" height="289" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1604059777058" />
+    <state width="1264" height="289" key="GridCell.Tab.0.center" timestamp="1604059777058">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1040" height="225" key="GridCell.Tab.0.center/0.23.2048.1129@0.23.2048.1129" timestamp="1605348522345" />
-    <state width="1133" height="287" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1607083165198" />
-    <state width="1133" height="287" key="GridCell.Tab.0.left" timestamp="1607083165197">
+    <state width="1264" height="289" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1604059777058" />
+    <state width="1264" height="289" key="GridCell.Tab.0.left" timestamp="1604059777058">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1040" height="225" key="GridCell.Tab.0.left/0.23.2048.1129@0.23.2048.1129" timestamp="1605348522345" />
-    <state width="1133" height="287" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1607083165197" />
-    <state width="1133" height="287" key="GridCell.Tab.0.right" timestamp="1607083165198">
+    <state width="1264" height="289" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1604059777058" />
+    <state width="1264" height="289" key="GridCell.Tab.0.right" timestamp="1604059777058">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1040" height="225" key="GridCell.Tab.0.right/0.23.2048.1129@0.23.2048.1129" timestamp="1605348522345" />
-    <state width="1133" height="287" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1607083165198" />
-    <state width="1133" height="287" key="GridCell.Tab.1.bottom" timestamp="1607083165198">
+    <state width="1264" height="289" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1604059777058" />
+    <state width="1264" height="289" key="GridCell.Tab.1.bottom" timestamp="1604059777059">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1040" height="225" key="GridCell.Tab.1.bottom/0.23.2048.1129@0.23.2048.1129" timestamp="1605348522346" />
-    <state width="1133" height="287" key="GridCell.Tab.1.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1607083165198" />
-    <state width="1133" height="287" key="GridCell.Tab.1.center" timestamp="1607083165198">
+    <state width="1264" height="289" key="GridCell.Tab.1.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1604059777059" />
+    <state width="1264" height="289" key="GridCell.Tab.1.center" timestamp="1604059777059">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1040" height="225" key="GridCell.Tab.1.center/0.23.2048.1129@0.23.2048.1129" timestamp="1605348522346" />
-    <state width="1133" height="287" key="GridCell.Tab.1.center/0.23.2560.1417@0.23.2560.1417" timestamp="1607083165198" />
-    <state width="1133" height="287" key="GridCell.Tab.1.left" timestamp="1607083165198">
+    <state width="1264" height="289" key="GridCell.Tab.1.center/0.23.2560.1417@0.23.2560.1417" timestamp="1604059777059" />
+    <state width="1264" height="289" key="GridCell.Tab.1.left" timestamp="1604059777059">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1040" height="225" key="GridCell.Tab.1.left/0.23.2048.1129@0.23.2048.1129" timestamp="1605348522346" />
-    <state width="1133" height="287" key="GridCell.Tab.1.left/0.23.2560.1417@0.23.2560.1417" timestamp="1607083165198" />
-    <state width="1133" height="287" key="GridCell.Tab.1.right" timestamp="1607083165198">
+    <state width="1264" height="289" key="GridCell.Tab.1.left/0.23.2560.1417@0.23.2560.1417" timestamp="1604059777059" />
+    <state width="1264" height="289" key="GridCell.Tab.1.right" timestamp="1604059777059">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1040" height="225" key="GridCell.Tab.1.right/0.23.2048.1129@0.23.2048.1129" timestamp="1605348522346" />
-    <state width="1133" height="287" key="GridCell.Tab.1.right/0.23.2560.1417@0.23.2560.1417" timestamp="1607083165198" />
-    <state width="1133" height="287" key="GridCell.Tab.2.bottom" timestamp="1607083165199">
+    <state width="1264" height="289" key="GridCell.Tab.1.right/0.23.2560.1417@0.23.2560.1417" timestamp="1604059777059" />
+    <state width="1264" height="289" key="GridCell.Tab.2.bottom" timestamp="1604059777059">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1040" height="225" key="GridCell.Tab.2.bottom/0.23.2048.1129@0.23.2048.1129" timestamp="1605348522346" />
-    <state width="1133" height="287" key="GridCell.Tab.2.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1607083165199" />
-    <state width="1133" height="287" key="GridCell.Tab.2.center" timestamp="1607083165199">
+    <state width="1264" height="289" key="GridCell.Tab.2.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1604059777059" />
+    <state width="1264" height="289" key="GridCell.Tab.2.center" timestamp="1604059777059">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1040" height="225" key="GridCell.Tab.2.center/0.23.2048.1129@0.23.2048.1129" timestamp="1605348522346" />
-    <state width="1133" height="287" key="GridCell.Tab.2.center/0.23.2560.1417@0.23.2560.1417" timestamp="1607083165199" />
-    <state width="1133" height="287" key="GridCell.Tab.2.left" timestamp="1607083165199">
+    <state width="1264" height="289" key="GridCell.Tab.2.center/0.23.2560.1417@0.23.2560.1417" timestamp="1604059777059" />
+    <state width="1264" height="289" key="GridCell.Tab.2.left" timestamp="1604059777059">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1040" height="225" key="GridCell.Tab.2.left/0.23.2048.1129@0.23.2048.1129" timestamp="1605348522346" />
-    <state width="1133" height="287" key="GridCell.Tab.2.left/0.23.2560.1417@0.23.2560.1417" timestamp="1607083165199" />
-    <state width="1133" height="287" key="GridCell.Tab.2.right" timestamp="1607083165199">
+    <state width="1264" height="289" key="GridCell.Tab.2.left/0.23.2560.1417@0.23.2560.1417" timestamp="1604059777059" />
+    <state width="1264" height="289" key="GridCell.Tab.2.right" timestamp="1604059777059">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1040" height="225" key="GridCell.Tab.2.right/0.23.2048.1129@0.23.2048.1129" timestamp="1605348522346" />
-    <state width="1133" height="287" key="GridCell.Tab.2.right/0.23.2560.1417@0.23.2560.1417" timestamp="1607083165199" />
-    <state width="1133" height="287" key="GridCell.Tab.3.bottom" timestamp="1607083165200">
+    <state width="1264" height="289" key="GridCell.Tab.2.right/0.23.2560.1417@0.23.2560.1417" timestamp="1604059777059" />
+    <state width="1264" height="289" key="GridCell.Tab.3.bottom" timestamp="1604059777061">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1040" height="225" key="GridCell.Tab.3.bottom/0.23.2048.1129@0.23.2048.1129" timestamp="1605348522347" />
-    <state width="1133" height="287" key="GridCell.Tab.3.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1607083165200" />
-    <state width="1133" height="287" key="GridCell.Tab.3.center" timestamp="1607083165199">
+    <state width="1264" height="289" key="GridCell.Tab.3.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1604059777061" />
+    <state width="1264" height="289" key="GridCell.Tab.3.center" timestamp="1604059777060">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1040" height="225" key="GridCell.Tab.3.center/0.23.2048.1129@0.23.2048.1129" timestamp="1605348522347" />
-    <state width="1133" height="287" key="GridCell.Tab.3.center/0.23.2560.1417@0.23.2560.1417" timestamp="1607083165199" />
-    <state width="1133" height="287" key="GridCell.Tab.3.left" timestamp="1607083165199">
+    <state width="1264" height="289" key="GridCell.Tab.3.center/0.23.2560.1417@0.23.2560.1417" timestamp="1604059777060" />
+    <state width="1264" height="289" key="GridCell.Tab.3.left" timestamp="1604059777060">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1040" height="225" key="GridCell.Tab.3.left/0.23.2048.1129@0.23.2048.1129" timestamp="1605348522347" />
-    <state width="1133" height="287" key="GridCell.Tab.3.left/0.23.2560.1417@0.23.2560.1417" timestamp="1607083165199" />
-    <state width="1133" height="287" key="GridCell.Tab.3.right" timestamp="1607083165199">
+    <state width="1264" height="289" key="GridCell.Tab.3.left/0.23.2560.1417@0.23.2560.1417" timestamp="1604059777060" />
+    <state width="1264" height="289" key="GridCell.Tab.3.right" timestamp="1604059777060">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1040" height="225" key="GridCell.Tab.3.right/0.23.2048.1129@0.23.2048.1129" timestamp="1605348522347" />
-    <state width="1133" height="287" key="GridCell.Tab.3.right/0.23.2560.1417@0.23.2560.1417" timestamp="1607083165199" />
+    <state width="1264" height="289" key="GridCell.Tab.3.right/0.23.2560.1417@0.23.2560.1417" timestamp="1604059777060" />
     <state x="1681" y="412" key="RiderGenerateDialog" timestamp="1603634339990">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="1681" y="412" key="RiderGenerateDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1603634339990" />
-    <state x="1199" y="278" key="SettingsEditor" timestamp="1605530789981">
+    <state width="498" height="445" key="SwitcherDM" timestamp="1604330682332">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="959" y="226" key="SettingsEditor/0.23.2048.1129@0.23.2048.1129" timestamp="1605171376617" />
-    <state x="1199" y="278" key="SettingsEditor/0.23.2560.1417@0.23.2560.1417" timestamp="1605530789981" />
-    <state width="498" height="445" key="SwitcherDM" timestamp="1607263168531">
+    <state width="498" height="445" key="SwitcherDM/0.23.2560.1417@0.23.2560.1417" timestamp="1604330682332" />
+    <state x="1538" y="486" width="738" height="490" key="find.popup" timestamp="1603719896663">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="498" height="416" key="SwitcherDM/0.23.2048.1129@0.23.2048.1129" timestamp="1605367761890" />
-    <state width="498" height="445" key="SwitcherDM/0.23.2560.1417@0.23.2560.1417" timestamp="1607263168531" />
-    <state x="1629" y="123" width="831" height="1217" key="VCS.FileHistoryDialog" timestamp="1606834766188">
+    <state x="1538" y="486" width="738" height="490" key="find.popup/0.23.2560.1417@0.23.2560.1417" timestamp="1603719896663" />
+    <state x="1571" y="345" key="run.anything.popup" timestamp="1603638695397">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="1629" y="123" width="831" height="1217" key="VCS.FileHistoryDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1606834766188" />
-    <state x="1057" y="327" key="Vcs.Push.Dialog.v2" timestamp="1605408947608">
-      <screen x="0" y="23" width="2048" height="1129" />
-    </state>
-    <state x="1057" y="327" key="Vcs.Push.Dialog.v2/0.23.2048.1129@0.23.2048.1129" timestamp="1605408947608" />
-    <state width="707" height="708" key="XDebugger.FullValuePopup" timestamp="1604729351493">
+    <state x="1571" y="345" key="run.anything.popup/0.23.2560.1417@0.23.2560.1417" timestamp="1603638695397" />
+    <state x="1570" y="346" width="672" height="678" key="search.everywhere.popup" timestamp="1604328550964">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="707" height="708" key="XDebugger.FullValuePopup/0.23.2560.1417@0.23.2560.1417" timestamp="1604729351493" />
-    <state x="1080" y="148" width="1316" height="1192" key="find.popup" timestamp="1607008487327">
-      <screen x="0" y="23" width="2560" height="1417" />
-    </state>
-    <state x="864" y="123" width="1053" height="950" key="find.popup/0.23.2048.1129@0.23.2048.1129" timestamp="1605188194705" />
-    <state x="1080" y="148" width="1316" height="1192" key="find.popup/0.23.2560.1417@0.23.2560.1417" timestamp="1607008487327" />
-    <state x="1571" y="345" key="run.anything.popup" timestamp="1606644861863">
-      <screen x="0" y="23" width="2560" height="1417" />
-    </state>
-    <state x="1571" y="345" key="run.anything.popup/0.23.2560.1417@0.23.2560.1417" timestamp="1606644861863" />
-    <state x="1570" y="346" width="672" height="678" key="search.everywhere.popup" timestamp="1607263171937">
-      <screen x="0" y="23" width="2560" height="1417" />
-    </state>
-    <state x="1256" y="280" width="672" height="541" key="search.everywhere.popup/0.23.2048.1129@0.23.2048.1129" timestamp="1605349159393" />
-    <state x="1570" y="346" width="672" height="678" key="search.everywhere.popup/0.23.2560.1417@0.23.2560.1417" timestamp="1607263171937" />
+    <state x="1570" y="346" width="672" height="678" key="search.everywhere.popup/0.23.2560.1417@0.23.2560.1417" timestamp="1604328550964" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/GameInstance.cs</url>
-          <line>90</line>
-          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/GameInstance.cs" initialLine="88">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/UI/Player/UIItem.cs</url>
+          <line>305</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/UI/Player/UIItem.cs" initialLine="305">
             <startOffsets>
-              <option value="2865" />
+              <option value="10740" />
             </startOffsets>
             <endOffsets>
-              <option value="2912" />
+              <option value="10799" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="42" />
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/GamePlay/BaseGamePlayManager.cs</url>
-          <line>162</line>
-          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/GamePlay/BaseGamePlayManager.cs" initialLine="162">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/PlayerData/PlayerItem.cs</url>
+          <line>96</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/PlayerData/PlayerItem.cs" initialLine="96">
             <startOffsets>
-              <option value="4995" />
+              <option value="2947" />
             </startOffsets>
             <endOffsets>
-              <option value="5056" />
+              <option value="2981" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="43" />
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/GamePlay/BaseGamePlayManager.cs</url>
-          <line>167</line>
-          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/GamePlay/BaseGamePlayManager.cs" initialLine="167">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/PlayerData/PlayerItem.cs</url>
+          <line>95</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/PlayerData/PlayerItem.cs" initialLine="95">
             <startOffsets>
-              <option value="5199" />
+              <option value="2863" />
             </startOffsets>
             <endOffsets>
-              <option value="5248" />
+              <option value="2930" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="44" />
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/GameService/Implement/SQLite/SQLiteGameServiceBattle.cs</url>
-          <line>24</line>
-          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/GameService/Implement/SQLite/SQLiteGameServiceBattle.cs" initialLine="24">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/UI/Player/UIItem.cs</url>
+          <line>291</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/RPG/Core/Scripts/UI/Player/UIItem.cs" initialLine="291">
             <startOffsets>
-              <option value="924" />
+              <option value="10330" />
             </startOffsets>
             <endOffsets>
-              <option value="943" />
+              <option value="10331" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="46" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Assets/Scripts/Test/Test_Scene1.cs</url>
-          <line>46</line>
-          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/Test/Test_Scene1.cs" initialLine="46">
-            <startOffsets>
-              <option value="1461" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1523" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="53" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Assets/Scripts/Projectile.cs</url>
-          <line>28</line>
-          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/Projectile.cs" initialLine="27">
-            <startOffsets>
-              <option value="705" />
-            </startOffsets>
-            <endOffsets>
-              <option value="768" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="65" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Assets/Scripts/Projectile.cs</url>
-          <line>46</line>
-          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/Projectile.cs" initialLine="44">
-            <startOffsets>
-              <option value="1202" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1217" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="66" />
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
