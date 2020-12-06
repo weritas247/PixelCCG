@@ -170,6 +170,7 @@
                 <e p="Scene" t="Include">
                   <e p="LoginSceneManager.cs" t="Include" />
                 </e>
+                <e p="Test_Player2.cs" t="Include" />
                 <e p="Text" t="Include">
                   <e p="Language.cs" t="Include" />
                   <e p="LanguageManager.cs" t="Include" />
