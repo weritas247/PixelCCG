@@ -76,6 +76,7 @@
      <Compile Include="Assets\Scripts\RPG\Core\Scripts\UI\Player\UICurrency.cs" />
      <Compile Include="Assets\Scripts\RPG\Core\Scripts\PlayerData\Interface\IPlayerBattle.cs" />
      <Compile Include="Assets\Scripts\RPG\Core\Scripts\UI\Player\UIPlayerList.cs" />
+     <Compile Include="Assets\Scripts\RPG\Core\Scripts\Test_Player2.cs" />
      <Compile Include="Assets\Scripts\RPG\Core\Scripts\GameService\Implement\SQLite\SQLiteGameServiceSocial.cs" />
      <Compile Include="Assets\Scripts\RPG\Core\Scripts\GameService\Implement\SQLite\SQLiteGameServiceBattle.cs" />
      <Compile Include="Assets\Scripts\RPG\Core\Scripts\PlayerData\PlayerItem.cs" />
@@ -140,7 +141,6 @@
      <Compile Include="Assets\Scripts\RPG\Core\Scripts\GameData\BaseStage.cs" />
      <Compile Include="Assets\Scripts\RPG\Core\Scripts\GameData\BaseSkill.cs" />
      <Compile Include="Assets\Scripts\RPG\Core\Scripts\UI\Gameplay\UICharacterStatsGeneric.cs" />
-     <Compile Include="Assets\Scripts\RPG\Core\Scripts\Test_Player2.cs" />
      <None Include="Assets\Scripts\RPG\Core\BaseRPG.asmdef" />
  <Reference Include="UnityEditor.UI">
  <HintPath>/Users/lsh/Unity/Pixel CCG/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>

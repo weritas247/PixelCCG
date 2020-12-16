@@ -89,12 +89,14 @@
      <Compile Include="Assets\Scripts\RoomCondition.cs" />
      <Compile Include="Assets\Scripts\PlayerTargeting.cs" />
      <Compile Include="Assets\Scripts\Player.cs" />
+     <Compile Include="Assets\Scripts\EnemyBase.cs" />
      <Compile Include="Assets\Download\Pixel Heroes Pack\Demo\Scripts\Druid.cs" />
      <Compile Include="Assets\Scripts\NonPlayerCharacter.cs" />
      <Compile Include="Assets\Joystick Pack\Examples\JoystickPlayerExample.cs" />
      <Compile Include="Assets\Scripts\UI_Popup_Map.cs" />
      <Compile Include="Assets\Scripts\Test\Test_Circle.cs" />
      <Compile Include="Assets\Scripts\SpawnPoint.cs" />
+     <Compile Include="Assets\Scripts\EnemyFollow.cs" />
      <Compile Include="Assets\Scripts\UI_Popup_Inventory.cs" />
      <Compile Include="Assets\Download\Pixel Heroes Pack\Demo\Scripts\Blademaster.cs" />
      <Compile Include="Assets\Download\Pixel Heroes Pack\Demo\Scripts\Barbarian.cs" />

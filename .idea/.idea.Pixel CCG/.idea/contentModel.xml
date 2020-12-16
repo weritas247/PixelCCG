@@ -61,6 +61,8 @@
           <e p="BaseCharacterEntity.cs" t="Include" />
           <e p="CharacterStats.cs" t="Include" />
           <e p="Enemy.cs" t="Include" />
+          <e p="EnemyBase.cs" t="Include" />
+          <e p="EnemyFollow.cs" t="Include" />
           <e p="Exercise.cs" t="Include" />
           <e p="FadeManager.cs" t="Include" />
           <e p="GUIManager.cs" t="Include" />
